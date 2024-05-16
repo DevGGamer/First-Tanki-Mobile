@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 45d9de6708cc47241aa6b6d44f865848
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Barrel
+  - first:
+      1: 100002
+    second: BarrelMount
+  - first:
+      1: 100004
+    second: Body
+  - first:
+      1: 100006
+    second: BodyShake
+  - first:
+      1: 100008
+    second: BoneBarrel
+  - first:
+      1: 100010
+    second: BoneBarreTilt
+  - first:
+      1: 100012
+    second: BoneBody
+  - first:
+      1: 100014
+    second: BoneTurret
+  - first:
+      1: 100016
+    second: BoneTurretTurn
+  - first:
+      1: 100018
+    second: BoneWheel_L1
+  - first:
+      1: 100020
+    second: BoneWheel_L2
+  - first:
+      1: 100022
+    second: BoneWheel_R1
+  - first:
+      1: 100024
+    second: BoneWheel_R2
+  - first:
+      1: 100026
+    second: GunEnd
+  - first:
+      1: 100028
+    second: root
+  - first:
+      1: 100030
+    second: //RootNode
+  - first:
+      1: 100032
+    second: Turret
+  - first:
+      1: 100034
+    second: Wheel_L1
+  - first:
+      1: 100036
+    second: Wheel_L2
+  - first:
+      1: 100038
+    second: Wheel_R1
+  - first:
+      1: 100040
+    second: Wheel_R2
+  - first:
+      4: 400000
+    second: Barrel
+  - first:
+      4: 400002
+    second: BarrelMount
+  - first:
+      4: 400004
+    second: Body
+  - first:
+      4: 400006
+    second: BodyShake
+  - first:
+      4: 400008
+    second: BoneBarrel
+  - first:
+      4: 400010
+    second: BoneBarreTilt
+  - first:
+      4: 400012
+    second: BoneBody
+  - first:
+      4: 400014
+    second: BoneTurret
+  - first:
+      4: 400016
+    second: BoneTurretTurn
+  - first:
+      4: 400018
+    second: BoneWheel_L1
+  - first:
+      4: 400020
+    second: BoneWheel_L2
+  - first:
+      4: 400022
+    second: BoneWheel_R1
+  - first:
+      4: 400024
+    second: BoneWheel_R2
+  - first:
+      4: 400026
+    second: GunEnd
+  - first:
+      4: 400028
+    second: root
+  - first:
+      4: 400030
+    second: //RootNode
+  - first:
+      4: 400032
+    second: Turret
+  - first:
+      4: 400034
+    second: Wheel_L1
+  - first:
+      4: 400036
+    second: Wheel_L2
+  - first:
+      4: 400038
+    second: Wheel_R1
+  - first:
+      4: 400040
+    second: Wheel_R2
+  - first:
+      23: 2300000
+    second: Barrel
+  - first:
+      23: 2300002
+    second: BarrelMount
+  - first:
+      23: 2300004
+    second: Body
+  - first:
+      23: 2300006
+    second: Turret
+  - first:
+      23: 2300008
+    second: Wheel_L1
+  - first:
+      23: 2300010
+    second: Wheel_L2
+  - first:
+      23: 2300012
+    second: Wheel_R1
+  - first:
+      23: 2300014
+    second: Wheel_R2
+  - first:
+      33: 3300000
+    second: Barrel
+  - first:
+      33: 3300002
+    second: BarrelMount
+  - first:
+      33: 3300004
+    second: Body
+  - first:
+      33: 3300006
+    second: Turret
+  - first:
+      33: 3300008
+    second: Wheel_L1
+  - first:
+      33: 3300010
+    second: Wheel_L2
+  - first:
+      33: 3300012
+    second: Wheel_R1
+  - first:
+      33: 3300014
+    second: Wheel_R2
+  - first:
+      43: 4300000
+    second: Wheel_L1
+  - first:
+      43: 4300002
+    second: Wheel_L2
+  - first:
+      43: 4300004
+    second: Wheel_R1
+  - first:
+      43: 4300006
+    second: Wheel_R2
+  - first:
+      43: 4300008
+    second: Body
+  - first:
+      43: 4300010
+    second: Barrel
+  - first:
+      43: 4300012
+    second: BarrelMount
+  - first:
+      43: 4300014
+    second: Turret
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Tank_T26_PBR
+    second: {fileID: 2100000, guid: 28bc50f72968e4e4db97bd8796d7b2fe, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Tank_T26(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root
+      parentName: Tank_T26(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000043711406, y: -0.000000043711378, z: 0.00000023841858,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BoneWheel_L1
+      parentName: root
+      position: {x: -1.1855174, y: 0.6873222, z: 0.7933796}
+      rotation: {x: -0.7071068, y: -5.0175585e-16, z: -5.0175595e-16, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Wheel_L1
+      parentName: BoneWheel_L1
+      position: {x: 1.1855174, y: 0.7933798, z: -0.68732125}
+      rotation: {x: 7.1054274e-15, y: 0.00000023841858, z: -2.9364193e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BoneWheel_R1
+      parentName: root
+      position: {x: 1.1855172, y: 0.687322, z: 0.79338}
+      rotation: {x: -0.7071068, y: -5.0175585e-16, z: -5.0175595e-16, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Wheel_R1
+      parentName: BoneWheel_R1
+      position: {x: -1.1855172, y: 0.79338014, z: -0.68732196}
+      rotation: {x: 7.1054274e-15, y: 0.00000023841858, z: -2.9364193e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BoneBody
+      parentName: root
+      position: {x: -0.000000014821661, y: 1.317288, z: -0.08908353}
+      rotation: {x: 0.000000043711324, y: -0.000000043711392, z: 1.910683e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BodyShake
+      parentName: BoneBody
+      position: {x: -4.620233e-14, y: 0, z: 0.000000006055832}
+      rotation: {x: 0.00000004371134, y: -0.0000000437114, z: -1.2300171e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: BodyShake
+      position: {x: 0.00000003039767, y: -1.317288, z: 0.08908375}
+      rotation: {x: -0.70710707, y: 0.0000003371748, z: 1.07855104e-13, w: 0.7071066}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BoneTurret
+      parentName: BoneBody
+      position: {x: -0.000000084384354, y: 0.49118337, z: 0.05140902}
+      rotation: {x: -0.85452116, y: 0.000002621179, z: -0.0000024760382, w: 0.51941663}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BoneTurretTurn
+      parentName: BoneTurret
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 2.842171e-14, y: -4.4605915e-28, z: -1.5694311e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BoneBarreTilt
+      parentName: BoneTurretTurn
+      position: {x: -0.000011242852, y: -0.7619337, z: 0.5398833}
+      rotation: {x: 2.842171e-14, y: -4.4605886e-28, z: -1.56943e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BoneBarrel
+      parentName: BoneBarreTilt
+      position: {x: 0.000000140495, y: 0.00000009689331, z: 0.36078456}
+      rotation: {x: -0.9537376, y: 0.000024714705, z: 0.00000575425, w: 0.30064043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Barrel
+      parentName: BoneBarrel
+      position: {x: 0.000001286091, y: 0.6869549, z: -2.7373326}
+      rotation: {x: 0.7071067, y: 0.0000001685874, z: -0.00000016858738, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GunEnd
+      parentName: Barrel
+      position: {x: 0.0000005091874, y: 2.4002542, z: 1.6147308}
+      rotation: {x: -0.70710665, y: -0.00000016858739, z: 0.00000016858739, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BarrelMount
+      parentName: BoneBarreTilt
+      position: {x: 0.000011496969, y: 0.7242593, z: -2.376548}
+      rotation: {x: 7.105429e-15, y: 0.00000023841858, z: -7.64276e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Turret
+      parentName: BoneTurretTurn
+      position: {x: 0.00000026264777, y: -0.03217496, z: -1.8122884}
+      rotation: {x: 7.1054274e-15, y: -6.1027616e-29, z: -8.5888734e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BoneWheel_L2
+      parentName: root
+      position: {x: -1.1855141, y: 0.6089921, z: -0.8041559}
+      rotation: {x: -0.4305302, y: 0.27556908, z: -0.29441693, w: 0.8074801}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Wheel_L2
+      parentName: BoneWheel_L2
+      position: {x: 1.1855141, y: -0.8041557, z: -0.60899216}
+      rotation: {x: 7.1054257e-15, y: 0.00000023841856, z: 7.105423e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BoneWheel_R2
+      parentName: root
+      position: {x: 1.1855173, y: 0.600396, z: -0.8041558}
+      rotation: {x: -0.43053034, y: -0.27556977, z: 0.29441714, w: 0.8074797}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Wheel_R2
+      parentName: BoneWheel_R2
+      position: {x: -1.1855173, y: -0.8041557, z: -0.6089911}
+      rotation: {x: 7.1054257e-15, y: 0.00000023841856, z: 7.105423e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
